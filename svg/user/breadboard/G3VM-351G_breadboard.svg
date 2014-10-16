@@ -22,12 +22,6 @@
       <rect width="21.9861" x="139.014" y="318.444" fill="#E6E6E6" height="60.1944"/>
       <polygon fill="#CCCCCC" points="172.014,409.889,128.014,409.889,120.486,378.639,179.542,378.639"/>
      </g>
-     <g>
-      <rect width="59.0556" x="220.472" y="378.639" fill="#B3B3B3" height="6.76389"/>
-      <polygon fill="#B3B3B3" points="272,416.653,228,416.653,220.472,385.403,279.528,385.403"/>
-      <rect width="21.9861" x="239" y="318.444" fill="#E6E6E6" height="60.1944"/>
-      <polygon fill="#CCCCCC" points="272,409.889,228,409.889,220.472,378.639,279.528,378.639"/>
-     </g>
      <rect width="300" x="0" y="0" fill="#D9D6C3" height="260.583"/>
      <rect width="300" x="0" opacity="0.2" y="260.583" fill="#FFFFFF" height="5.98611"/>
      <rect width="300" x="0" opacity="0.2" y="202.042" height="5.98611"/>
@@ -35,10 +29,8 @@
      <rect width="300" x="0" opacity="0.2" y="0" fill="#FFFFFF" height="4.40278"/>
      <rect width="21.9861" x="38.3889" y="318.444" fill="#CCCCCC" height="9.26389"/>
      <rect width="21.9861" x="139.014" y="318.444" fill="#CCCCCC" height="9.26389"/>
-     <rect width="21.9861" x="239" y="318.444" fill="#CCCCCC" height="9.26389"/>
      <rect width="21.9861" x="38.3889" y="369.375" fill="#CCCCCC" height="9.26389"/>
      <rect width="21.9861" x="139.014" y="369.375" fill="#CCCCCC" height="9.26389"/>
-     <rect width="21.9861" x="239" y="369.375" fill="#CCCCCC" height="9.26389"/>
      <circle fill="#D9D6C3" cx="29.7083" cy="176.083" r="13.8889"/>
     </g>
    </g>
@@ -52,7 +44,7 @@
    <polygon fill="#9A916C" points="0,31.9,7.87486,24.1368,24.2079,24.1368,31.93,31.9"/>
   </g>
   <g transform="translate(134.035,34.05)">
-   <rect width="31.93" x="0" y="0" fill="#8D8C8C" height="31.9" id="connector5pin"/>
+   <rect width="31.93" x="0" y="0" fill="#8D8C8C" height="31.9" id="connector3pin"/>
    <rect width="16.4442" x="7.79153" y="7.73544" fill="#8C8663" height="16.4152"/>
    <polygon fill="#B8AF82" points="0,31.9,7.79153,24.1368,7.79153,6.97162,0,0"/>
    <polygon fill="#80795B" points="24.2079,7.76321,7.90264,7.76321,0,0,31.93,0"/>
@@ -68,23 +60,7 @@
    <polygon fill="#9A916C" points="0,31.9,7.87486,24.1368,24.2079,24.1368,31.93,31.9"/>
   </g>
   <g transform="translate(234.035,34.05)">
-   <rect width="31.93" x="0" y="0" fill="#8D8C8C" height="31.9" id="connector4pin"/>
-   <rect width="16.4442" x="7.79153" y="7.73544" fill="#8C8663" height="16.4152"/>
-   <polygon fill="#B8AF82" points="0,31.9,7.79153,24.1368,7.79153,6.97162,0,0"/>
-   <polygon fill="#80795B" points="24.2079,7.76321,7.90264,7.76321,0,0,31.93,0"/>
-   <polygon fill="#5E5B43" points="24.2079,24.1368,24.2079,7.76321,31.93,0,31.93,31.9"/>
-   <polygon fill="#9A916C" points="0,31.9,7.87486,24.1368,24.2079,24.1368,31.93,31.9"/>
-  </g>
-  <g transform="translate(334.035,734.05)">
    <rect width="31.93" x="0" y="0" fill="#8D8C8C" height="31.9" id="connector2pin"/>
-   <rect width="16.4442" x="7.79153" y="7.73544" fill="#8C8663" height="16.4152"/>
-   <polygon fill="#B8AF82" points="0,31.9,7.79153,24.1368,7.79153,6.97162,0,0"/>
-   <polygon fill="#80795B" points="24.2079,7.76321,7.90264,7.76321,0,0,31.93,0"/>
-   <polygon fill="#5E5B43" points="24.2079,24.1368,24.2079,7.76321,31.93,0,31.93,31.9"/>
-   <polygon fill="#9A916C" points="0,31.9,7.87486,24.1368,24.2079,24.1368,31.93,31.9"/>
-  </g>
-  <g transform="translate(334.035,34.05)">
-   <rect width="31.93" x="0" y="0" fill="#8D8C8C" height="31.9" id="connector3pin"/>
    <rect width="16.4442" x="7.79153" y="7.73544" fill="#8C8663" height="16.4152"/>
    <polygon fill="#B8AF82" points="0,31.9,7.79153,24.1368,7.79153,6.97162,0,0"/>
    <polygon fill="#80795B" points="24.2079,7.76321,7.90264,7.76321,0,0,31.93,0"/>

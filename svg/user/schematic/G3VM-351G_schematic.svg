@@ -19,21 +19,13 @@
 <rect class="terminal" fill="none" height="0.0001" id="connector1terminal" stroke="none" stroke-width="0" width="0.0001" x="0.123472" y="5.207"/>
 <text class="text" fill="#8c8c8c" font-family="'Droid Sans'" font-size="0.881944" stroke="none" stroke-width="0" text-anchor="middle" x="2.66347" y="4.83658">2</text>
 <text class="text" fill="#787878" font-family="'Droid Sans'" font-size="1.23472" stroke="none" stroke-width="0" text-anchor="start" x="5.9443" y="5.45394">P$2</text>
-<line class="pin" connectorname="P$3" id="connector2pin" stroke="#787878" stroke-linecap="round" stroke-width="0.246944" x1="0.123472" x2="5.20347" y1="7.747" y2="7.747"/>
-<rect class="terminal" fill="none" height="0.0001" id="connector2terminal" stroke="none" stroke-width="0" width="0.0001" x="0.123472" y="7.747"/>
-<text class="text" fill="#8c8c8c" font-family="'Droid Sans'" font-size="0.881944" stroke="none" stroke-width="0" text-anchor="middle" x="2.66347" y="7.37658">3</text>
-<text class="text" fill="#787878" font-family="'Droid Sans'" font-size="1.23472" stroke="none" stroke-width="0" text-anchor="start" x="5.9443" y="7.99394">P$3</text>
-<line class="pin" connectorname="P$4" id="connector3pin" stroke="#787878" stroke-linecap="round" stroke-width="0.246944" x1="28.0635" x2="22.9835" y1="7.747" y2="7.747"/>
-<rect class="terminal" fill="none" height="0.0001" id="connector3terminal" stroke="none" stroke-width="0" width="0.0001" x="28.0635" y="7.747"/>
-<text class="text" fill="#8c8c8c" font-family="'Droid Sans'" font-size="0.881944" stroke="none" stroke-width="0" text-anchor="middle" x="25.5235" y="7.37658">4</text>
-<text class="text" fill="#787878" font-family="'Droid Sans'" font-size="1.23472" stroke="none" stroke-width="0" text-anchor="end" x="22.2426" y="7.99394">P$4</text>
-<line class="pin" connectorname="P$5" id="connector4pin" stroke="#787878" stroke-linecap="round" stroke-width="0.246944" x1="28.0635" x2="22.9835" y1="5.207" y2="5.207"/>
-<rect class="terminal" fill="none" height="0.0001" id="connector4terminal" stroke="none" stroke-width="0" width="0.0001" x="28.0635" y="5.207"/>
-<text class="text" fill="#8c8c8c" font-family="'Droid Sans'" font-size="0.881944" stroke="none" stroke-width="0" text-anchor="middle" x="25.5235" y="4.83658">5</text>
-<text class="text" fill="#787878" font-family="'Droid Sans'" font-size="1.23472" stroke="none" stroke-width="0" text-anchor="end" x="22.2426" y="5.45394">P$5</text>
-<line class="pin" connectorname="P$6" id="connector5pin" stroke="#787878" stroke-linecap="round" stroke-width="0.246944" x1="28.0635" x2="22.9835" y1="2.667" y2="2.667"/>
-<rect class="terminal" fill="none" height="0.0001" id="connector5terminal" stroke="none" stroke-width="0" width="0.0001" x="28.0635" y="2.667"/>
-<text class="text" fill="#8c8c8c" font-family="'Droid Sans'" font-size="0.881944" stroke="none" stroke-width="0" text-anchor="middle" x="25.5235" y="2.29658">6</text>
-<text class="text" fill="#787878" font-family="'Droid Sans'" font-size="1.23472" stroke="none" stroke-width="0" text-anchor="end" x="22.2426" y="2.91394">P$6</text>
+<line class="pin" connectorname="P$3" id="connector2pin" stroke="#787878" stroke-linecap="round" stroke-width="0.246944" x1="28.0635" x2="22.9835" y1="5.207" y2="5.207"/>
+<rect class="terminal" fill="none" height="0.0001" id="connector2terminal" stroke="none" stroke-width="0" width="0.0001" x="28.0635" y="5.207"/>
+<text class="text" fill="#8c8c8c" font-family="'Droid Sans'" font-size="0.881944" stroke="none" stroke-width="0" text-anchor="middle" x="25.5235" y="4.83658">3</text>
+<text class="text" fill="#787878" font-family="'Droid Sans'" font-size="1.23472" stroke="none" stroke-width="0" text-anchor="end" x="22.2426" y="5.45394">P$3</text>
+<line class="pin" connectorname="P$4" id="connector3pin" stroke="#787878" stroke-linecap="round" stroke-width="0.246944" x1="28.0635" x2="22.9835" y1="2.667" y2="2.667"/>
+<rect class="terminal" fill="none" height="0.0001" id="connector3terminal" stroke="none" stroke-width="0" width="0.0001" x="28.0635" y="2.667"/>
+<text class="text" fill="#8c8c8c" font-family="'Droid Sans'" font-size="0.881944" stroke="none" stroke-width="0" text-anchor="middle" x="25.5235" y="2.29658">4</text>
+<text class="text" fill="#787878" font-family="'Droid Sans'" font-size="1.23472" stroke="none" stroke-width="0" text-anchor="end" x="22.2426" y="2.91394">P$4</text>
 </g>
 </svg>
