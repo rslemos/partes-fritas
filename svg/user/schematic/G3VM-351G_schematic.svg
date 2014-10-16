@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><!-- Created with Fritzing (http://www.fritzing.org/) --><svg baseProfile="tiny" height="0.41in" version="1.2" viewBox="0 0 28.1869 10.414" width="1.10972in" x="0in" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" y="0in">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA. -->
+<!-- Created with Fritzing (http://www.fritzing.org/) --><svg baseProfile="tiny" height="0.41in" version="1.2" viewBox="0 0 28.1869 10.414" width="1.10972in" x="0in" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" y="0in">
 <g id="schematic">
 <rect class="interior rect" fill="#ffffff" height="10.16" stroke="none" stroke-width="0" width="17.78" x="5.20347" y="0.127"/>
 
 
 <text class="text" fill="#000000" font-family="'Droid Sans'" font-size="1.49931" id="label" stroke="none" stroke-width="0" text-anchor="middle" x="14.0935" y="3.60769">G3VM</text>
-<text class="text" fill="#000000" font-family="'Droid Sans'" font-size="1.49931" id="label" stroke="none" stroke-width="0" text-anchor="middle" x="14.0935" y="5.207">61E1</text>
+<text class="text" fill="#000000" font-family="'Droid Sans'" font-size="1.49931" id="label" stroke="none" stroke-width="0" text-anchor="middle" x="14.0935" y="5.207">351G</text>
 <line class="other" stroke="#000000" stroke-linecap="round" stroke-width="0.3175" x1="5.20347" x2="5.20347" y1="0.127" y2="10.287"/>
 <line class="other" stroke="#000000" stroke-linecap="round" stroke-width="0.3175" x1="5.20347" x2="22.9835" y1="10.287" y2="10.287"/>
 <line class="other" stroke="#000000" stroke-linecap="round" stroke-width="0.3175" x1="22.9835" x2="22.9835" y1="10.287" y2="0.127"/>
