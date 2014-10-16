@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <!-- This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA. -->
 <!-- Created with Fritzing (http://www.fritzing.org/) -->
-<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.375441in' height='0.455in' viewBox='0 0 9.5362 11.557' >
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='6.2962mm' height='9.087mm' viewBox='0 0 6.2962 9.087' >
 <g id='copper1'>
-<rect id='connector0pad' connectorname='P$1' x='2.3727' y='9.5735' width='1.5' height='1.3' stroke='none' stroke-width='0' fill='#F7BD13' stroke-linecap='round'/>
-<rect id='connector1pad' connectorname='P$2' x='4.9127' y='9.5735' width='1.5' height='1.3' stroke='none' stroke-width='0' fill='#F7BD13' stroke-linecap='round'/>
-<rect id='connector2pad' connectorname='P$3' x='4.9127' y='0.9535' width='1.5' height='1.3' stroke='none' stroke-width='0' fill='#F7BD13' stroke-linecap='round'/>
-<rect id='connector3pad' connectorname='P$4' x='2.3727' y='0.9535' width='1.5' height='1.3' stroke='none' stroke-width='0' fill='#F7BD13' stroke-linecap='round'/>
+	<!-- -2,47 -->
+<rect id='connector0pad' connectorname='P$1' x='2.3727' y='7.1035' width='0.8' height='1.2' stroke='none' stroke-width='0' fill='#F7BD13' stroke-linecap='round'/>
+<rect id='connector1pad' connectorname='P$2' x='4.9127' y='7.1035' width='0.8' height='1.2' stroke='none' stroke-width='0' fill='#F7BD13' stroke-linecap='round'/>
+<rect id='connector2pad' connectorname='P$3' x='4.9127' y='0.9535' width='0.8' height='1.2' stroke='none' stroke-width='0' fill='#F7BD13' stroke-linecap='round'/>
+<rect id='connector3pad' connectorname='P$4' x='2.3727' y='0.9535' width='0.8' height='1.2' stroke='none' stroke-width='0' fill='#F7BD13' stroke-linecap='round'/>
 <g id='copper0'>
 </g>
 </g>
 <g id='silkscreen'>
-<line class='other' x1='1.8527' y1='0.0635' x2='1.8527' y2='11.4935' stroke='#f0f0f0' stroke-width='0.127' stroke-linecap='round'/>
-<line class='other' x1='1.8527' y1='11.4935' x2='9.4727' y2='11.4935' stroke='#f0f0f0' stroke-width='0.127' stroke-linecap='round'/>
-<line class='other' x1='9.4727' y1='11.4935' x2='9.4727' y2='0.0635' stroke='#f0f0f0' stroke-width='0.127' stroke-linecap='round'/>
-<line class='other' x1='9.4727' y1='0.0635' x2='1.8527' y2='0.0635' stroke='#f0f0f0' stroke-width='0.127' stroke-linecap='round'/>
-<circle class='other' cx='0.5827' cy='10.2235' r='0.5192' stroke='#f0f0f0' stroke-width='0.127' fill='none' />
+<line class='other' x1='1.8527' y1='0.0635' x2='1.8527' y2='9.0235' stroke='#f0f0f0' stroke-width='0.127' stroke-linecap='round'/>
+<line class='other' x1='1.8527' y1='9.0235' x2='6.2327' y2='9.0235' stroke='#f0f0f0' stroke-width='0.127' stroke-linecap='round'/>
+<line class='other' x1='6.2327' y1='9.0235' x2='6.2327' y2='0.0635' stroke='#f0f0f0' stroke-width='0.127' stroke-linecap='round'/>
+<line class='other' x1='6.2327' y1='0.0635' x2='1.8527' y2='0.0635' stroke='#f0f0f0' stroke-width='0.127' stroke-linecap='round'/>
+<circle class='other' cx='0.5827' cy='7.7535' r='0.5192' stroke='#f0f0f0' stroke-width='0.127' fill='none' />
 </g>
 </svg>
