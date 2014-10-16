@@ -179,26 +179,6 @@
 <p layer='copper1' svgId='connector13pad'/></pcbView>
 </views>
 </connector>
-<connector id='connector14' type='male' name='15'>
-<description>15</description><views>
-<breadboardView>
-<p layer='breadboard' svgId='connector14pin'/></breadboardView>
-<schematicView>
-<p layer='schematic' svgId='connector14pin' terminalId='connector14terminal'/></schematicView>
-<pcbView>
-<p layer='copper1' svgId='connector14pad'/></pcbView>
-</views>
-</connector>
-<connector id='connector15' type='male' name='16'>
-<description>16</description><views>
-<breadboardView>
-<p layer='breadboard' svgId='connector15pin'/></breadboardView>
-<schematicView>
-<p layer='schematic' svgId='connector15pin' terminalId='connector15terminal'/></schematicView>
-<pcbView>
-<p layer='copper1' svgId='connector15pad'/></pcbView>
-</views>
-</connector>
 </connectors>
 <buses>
 </buses>
